@@ -1,11 +1,11 @@
 # session.sh
-# Track the commands that you execute in your terminal below
+# Use this file to track the commands that you execute in your terminal
 
 # Print your working directory
 
 
 # Change your directory to a folder in which you do work for this class
-# Make sure to use the "~" shortcut rather than specifying your username
+# Make sure to use the "~" shortcut rather than specifying the full path
 
 
 # Clone your private assignment repository from GitHub to your machine
